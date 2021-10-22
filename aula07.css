@@ -1,0 +1,14 @@
+
+body{
+    color: red;
+    background-color: white;
+    background-image: url("imagens/ifpi.jpg");
+    background-repeat: repeat-y;
+    background-position:  center right;
+    background-size: 20%;
+    margin: 1px 10%;
+}
+h3{
+    font-size: 120px;
+    font-weight: bold;
+}
